@@ -8,7 +8,7 @@ public class ForLoopTest {
 		/*
 		 * 다음 방정식의 해를 출력.
 		 * 2x + y = 10
-		 * 단, x, y는 정수이며 값의 범위는 0 <= x,y <=10
+		 * 단, x, y는 정수이며 값의 범위는 0 <= x,y <=10awdawd
 		*/
 		int x, y;
 		for(x=0;x<11;x++) {
