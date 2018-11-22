@@ -7,7 +7,8 @@ public class Hello {
 		
 		Member mb = new Member();
 		mb.print();
-		System.out.println("I am updated!");
+		System.out.println("hibabe");
+		System.out.println("I am updated!ddddaaaaa");
 		
 	}
 
