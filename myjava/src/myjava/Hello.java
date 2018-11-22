@@ -7,6 +7,7 @@ public class Hello {
 		
 		Member mb = new Member();
 		mb.print();
+		System.out.println("I am updated!");
 		
 	}
 
