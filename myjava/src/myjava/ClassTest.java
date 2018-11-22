@@ -10,6 +10,7 @@ public class ClassTest {
 		
 		//객체를 생성해서 my 변수에 삽입한다.
 		my = new MyClass2();
+		System.out.println("Imawdw");
 	}
 
 }

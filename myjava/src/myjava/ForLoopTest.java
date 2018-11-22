@@ -7,7 +7,7 @@ public class ForLoopTest {
 		//for(초기화;조건식;증감식){ Loop sector }
 		/*
 		 * 다음 방정식의 해를 출력.
-		 * 2x + y = 10
+		 * 2x + y = 10awdawd
 		 * 단, x, y는 정수이며 값의 범위는 0 <= x,y <=10awdawd
 		*/
 		int x, y;
